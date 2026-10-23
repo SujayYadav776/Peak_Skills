@@ -12,7 +12,7 @@ files. The skill only supplies instructions; it does **not** include the REA MCP
 or any analysis engines (Hopper, Ghidra, IDA, JADX, etc.) — those are separate, as
 `SKILL.md` explains.
 
-**License:** this skill and its runtime are governed by the upstream project's license.
-See [github.com/morluto/rea](https://github.com/morluto/rea) for the authoritative terms
-before redistributing or relying on it. If upstream requires a specific notice, add it
-here.
+**License:** MIT. The upstream project is released under the MIT License,
+Copyright (c) 2026 morluto. The full license text is bundled here as
+[`LICENSE`](LICENSE). MIT permits redistribution and reuse provided the copyright
+notice and this permission notice are retained — which they are.
